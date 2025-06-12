@@ -36,6 +36,7 @@ Assets/
 │
 └── Prefabs/
     └── CellTile.prefab          # UI tile used to represent a cell
+```
 
 ---
 
